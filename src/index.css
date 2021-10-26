@@ -47,6 +47,15 @@ ol, ul {
   align-items: center;
 }
 
+.footer {
+  height: 5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+
 .game {
   display: flex;
   flex-direction: column;
