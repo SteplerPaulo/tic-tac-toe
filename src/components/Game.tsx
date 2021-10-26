@@ -20,7 +20,7 @@ export default function Game() {
       }
     }
   
-    function renderSquare(i:any) {
+    function renderSquare(i:number) {
       return (
         <Square
           value={squares[i]}
